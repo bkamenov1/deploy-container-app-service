@@ -18,3 +18,6 @@ Containerization	Docker, Azure Container Registry
 Cloud Hosting	Azure App Service (Linux)
 Infrastructure	Azure Bicep (IaC)
 CI/CD	GitHub Actions
+
+Demo:
+![Image](https://github.com/user-attachments/assets/f8495f10-cde4-4c51-9cd5-8e2a8de65b58)
