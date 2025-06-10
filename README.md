@@ -2,7 +2,8 @@
 
 A scalable .NET web application deployed with Docker, Azure Container Registry (ACR), and Azure App Service
 
-🚀 Features
+##  Features:
+
 Containerized .NET Web App: Pre-configured with Docker optimizations.
 
 CI/CD Pipeline: Automated builds/deployments via GitHub Actions.
