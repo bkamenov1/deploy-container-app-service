@@ -10,6 +10,7 @@ CI/CD Pipeline: Automated builds/deployments via GitHub Actions.
 Infrastructure-as-Code: Azure resources provisioned with Bicep/Terraform.
 
 🛠️ Technologies Used
+
 Component	Technology Stack
 Frontend	ASP.NET Core, Razor Pages
 Containerization	Docker, Azure Container Registry
