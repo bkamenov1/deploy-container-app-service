@@ -1,8 +1,6 @@
-Azure Containerized Web App Deployment
-A scalable .NET web application deployed with Docker, Azure Container Registry (ACR), and Azure App Service
+##Azure Containerized Web App Deployment
 
-https://azure.microsoft.com/svghandler/app-service/
-Live Demo: https://your-app.azurewebsites.net
+A scalable .NET web application deployed with Docker, Azure Container Registry (ACR), and Azure App Service
 
 🚀 Features
 Containerized .NET Web App: Pre-configured with Docker optimizations.
@@ -10,8 +8,6 @@ Containerized .NET Web App: Pre-configured with Docker optimizations.
 CI/CD Pipeline: Automated builds/deployments via GitHub Actions.
 
 Infrastructure-as-Code: Azure resources provisioned with Bicep/Terraform.
-
-Scalable Architecture: Ready for horizontal scaling in Azure.
 
 🛠️ Technologies Used
 Component	Technology Stack
