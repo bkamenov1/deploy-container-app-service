@@ -1,4 +1,4 @@
-##Azure Containerized Web App Deployment
+## Azure Containerized Web App Deployment
 
 A scalable .NET web application deployed with Docker, Azure Container Registry (ACR), and Azure App Service
 
